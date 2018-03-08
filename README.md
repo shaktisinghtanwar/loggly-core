@@ -1,5 +1,5 @@
 ********  log4net-loggly-core  *********
-This is loggly port into .net core 2.0
+This is loggly port into .net core 2.0  Appender
 
 loggly currently has plugins for Log4net
 
