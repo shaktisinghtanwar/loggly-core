@@ -1,4 +1,4 @@
-********  log4net-loggly-core   *********
+********  log4net-loggly-core  *********
 This is loggly port into .net core 2.0
 
 loggly currently has plugins for Log4net
@@ -19,6 +19,8 @@ Links to Documentation Log4Net Visit Log4Net
 
 Note : " log4net-loggly-core  This Is Asp.net core 2.0 Appender fot Logentries ".
 
-This Appender is Available on NuGet Appender Name on NuGet: "log4net-loggly-core" Dependency : Asp.net Core 2.0 ////////////////////////////////////////////////////// *********************** //////////////////////////////////////////////////// 
+This Appender is Available on NuGet Appender Name on NuGet: "log4net-loggly-core" 
+Dependency : Asp.net Core 2.0 
+////////////////////////////////////////////////////// *********************** //////////////////////////////////////////////////// 
 Here,I am Providing One Demo in asp.net core 2.0 ,
-in which All Configuration Set ,just change Log key and Get Your Logs . Demo Name : "LogEntriesDemo"
+in which All Configuration Set ,just change Log key and Get Your Logs . Demo Name : "log4net-loggly-core-console"
